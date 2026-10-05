@@ -1,0 +1,249 @@
+Terms of Service for Unbound Services
+
+**Last Updated: October 6, 2026**
+
+## 1. Acceptance of Terms
+
+By accessing or using the Unbound private game server and its launcher for Home Sweet Home: Online (the "Service"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, you may not use the Service.
+
+These Terms constitute a legally binding agreement between you and the Unbound Team ("we," "us," or "our").
+
+## 2. Eligibility and Account Requirements
+
+### Age Requirement
+You must be at least 13 years of age to use the Service. By using the Service, you represent and warrant that you meet this age requirement.
+
+### Account Registration
+- You must have a valid Steam account to access the Service
+- You are responsible for maintaining the security of your Steam account
+- Account sharing is prohibited
+
+### Account Security
+You are solely responsible for:
+- All activities that occur under your account
+- Maintaining the confidentiality of your Steam credentials
+
+## 3. Service Description and Disclaimer
+
+### Nature of Service
+Unbound Services is a **private, fan-operated, non-commercial** game server for Home Sweet Home: Online. We are NOT affiliated with, endorsed by, or connected to the original developers or publishers of Home Sweet Home: Online.
+
+### No Warranty
+The Service is provided "AS IS" and "AS AVAILABLE" without warranties of any kind, either express or implied, including but not limited to:
+- Warranties of merchantability or fitness for a particular purpose
+- Guarantees of uninterrupted or error-free service
+- Guarantees of data preservation or service continuity
+
+### Service Availability
+- We do not guarantee that the Service will be available at all times
+- We may modify, suspend, or discontinue the Service at any time without notice
+- We reserve the right to implement maintenance periods, which may cause temporary downtime
+
+## 4. User Conduct and Prohibited Activities
+
+### Acceptable Use
+You agree to use the Service in a respectful manner and comply with all applicable laws and regulations.
+
+### Prohibited Activities
+You may NOT:
+
+**Cheating and Exploitation:**
+- Use cheats, hacks, bots, exploits, or third-party software to gain unfair advantages
+- Exploit bugs or glitches for personal gain (you must report them immediately)
+- Modify game files or manipulate game data (unless is verified by our game's launcher)
+- Use unauthorized automation tools or scripts
+
+**Disruptive Behavior:**
+- Harass, threaten, intimidate, or abuse other players
+- Engage in hate speech, discrimination, or bigotry of any kind
+- Spam, flood, or otherwise disrupt game chat or systems
+- Impersonate staff members, administrators, or other players
+- Engage in real-money trading (RMT) or account selling
+
+**Security Violations:**
+- Attempt to gain unauthorized access to our servers or systems
+- Interfere with or disrupt the Service or servers
+- Use VPNs or proxies to evade bans or restrictions
+- Share or distribute exploits, hacks, or cheating tools
+
+**Content Violations:**
+- Upload, transmit, or distribute illegal or malicious content
+- Share personally identifiable information of others without consent
+- Promote or engage in illegal activities
+- Use offensive or inappropriate usernames or character names
+
+### Consequences
+Violation of these rules may result in:
+- Warnings
+- Temporary suspension
+- Permanent ban from the Service
+- Reporting to appropriate authorities (in cases of illegal activity)
+
+## 5. Intellectual Property Rights
+
+### Game Content
+All intellectual property rights in Home Sweet Home: Online, including but not limited to graphics, characters, storylines, and game mechanics, belong to the original game developers and publishers (YGGDRAZIL GROUP PUBLIC CO.,LTD + SHIFTNOW). We claim no ownership over the original game content.
+
+### Server Modifications
+Any custom modifications, features, or content created by the Unbound Team remain our property. However, we grant you a limited, non-exclusive, non-transferable license to use such modifications solely for the purpose of accessing and enjoying the Service.
+
+## 6. Anti-Cheat and Security Measures
+
+### Data Collection for Security
+As described in our Privacy Policy, we collect Steam IDs and Discord IDs as account information. The game client automatically transmits IP addresses and Mac addresses to our server for security and anti-cheat purposes. By using the Service, you consent to this data collection.
+
+### Anti-Cheat Systems
+We employ various anti-cheat measures to ensure fair gameplay. Attempting to circumvent, disable, or interfere with these systems is strictly prohibited and will result in immediate permanent ban.
+
+### Investigations
+We reserve the right to:
+- Investigate suspected violations of these Terms
+- Review gameplay logs, chat logs, and account data
+- Take appropriate action based on our findings
+- Retain evidence of violations for our records
+
+## 7. Bans and Account Actions
+
+### Ban Types
+- **Temporary Ban:** Account suspension for a specified period
+- **Permanent Ban:** Permanent removal from the Service with no appeal
+- **Hardware Ban:** Ban applied to your hardware identifiers (IP/Mac address) to prevent ban evasion
+
+### Ban Evasion
+Attempting to circumvent a ban through:
+- Creating new accounts
+- Using VPNs or proxies
+- Using different hardware
+
+Will result in permanent ban of all associated accounts and hardware identifiers.
+
+### Appeal Process
+- Temporary bans may be appealed by contacting hshunbound.team@gmail.com
+- You must provide your Steam ID and a detailed explanation; include your Discord ID if it is relevant to your appeal
+- We will review appeals within 7-14 business days
+- Permanent bans are generally not appealable, except in cases of mistaken identity
+- Our decisions are final
+
+## 8. Limitation of Liability
+
+To the maximum extent permitted by law:
+
+### No Liability for Damages
+We shall not be liable for any direct, indirect, incidental, special, consequential, or exemplary damages, including but not limited to:
+- Loss of data or game progress
+- Loss of virtual items or currency
+- Service interruptions or downtime
+- Unauthorized access to your account
+- Damages resulting from bugs, glitches, or exploits
+
+### Service Interruptions
+We are not liable for:
+- Server downtime or maintenance
+- Data loss due to technical failures
+- Service discontinuation
+- Changes to game features or mechanics
+
+### Third-Party Actions
+We are not responsible for:
+- Actions of other players
+- Content posted by other users
+- Third-party services or websites linked from our Service
+
+### Maximum Liability
+In no event shall our total liability exceed $0 USD, as this is a free, non-commercial service.
+
+## 9. Indemnification
+
+You agree to indemnify, defend, and hold harmless the Unbound Team, its administrators, moderators, and contributors from and against any claims, liabilities, damages, losses, and expenses (including reasonable legal fees) arising out of or in any way connected with:
+- Your access to or use of the Service
+- Your violation of these Terms
+- Your violation of any rights of another person or entity
+- Your violation of any applicable laws or regulations
+
+## 10. Modifications to Terms and Service
+
+### Changes to Terms
+We reserve the right to modify these Terms at any time. We will notify users of significant changes by:
+- Posting a notice in-game via the mailing system
+- Posting an announcement on our Discord server
+- Updating the "Last Updated" date at the top of these Terms
+
+Continued use of the Service after changes become effective constitutes acceptance of the modified Terms.
+
+### Changes to Service
+We reserve the right to:
+- Modify or discontinue any feature of the Service
+- Change game mechanics, rules, or systems
+- Implement new policies or guidelines
+- Permanently shut down the Service
+
+We will attempt to provide reasonable notice for significant changes, but are not obligated to do so.
+
+## 11. Termination
+
+### Your Right to Terminate
+You may stop using the Service at any time. To request account deletion, contact us at hshunbound.team@gmail.com.
+
+### Our Right to Terminate
+We reserve the right to:
+- Suspend or terminate your access to the Service at any time, with or without cause
+- Remove your account and associated data
+- Refuse service to anyone for any reason
+
+Reasons for termination may include, but are not limited to:
+- Violation of these Terms
+- Fraudulent or illegal activity
+- Disruptive behavior
+- Extended periods of inactivity
+- Discontinuation of the Service
+
+## 12. Dispute Resolution
+
+### Informal Resolution
+If you have a dispute with us, please first contact us at hshunbound.team@gmail.com and attempt to resolve the issue informally.
+
+### Governing Law
+These Terms shall be governed by and construed in accordance with the laws of Thailand, without regard to its conflict of law provisions.
+### Arbitration
+Any disputes arising from these Terms or the Service shall be resolved through binding arbitration in accordance with the laws of Thailand, rather than in court, except that you may assert claims in small claims court if your claims qualify.
+
+## 13. Third-Party Services
+
+### Steam Integration
+Our Service requires and integrates with Steam. Your use of Steam is governed by Valve Corporation's Steam Subscriber Agreement available at: https://store.steampowered.com/subscriber_agreement/
+
+### Other Third-Party Services
+We may link to or integrate with third-party services (such as Discord). Your use of these services is governed by their respective terms of service and privacy policies. We are not responsible for the practices or content of third-party services.
+
+## 14. General Provisions
+
+### Entire Agreement
+These Terms, together with our Privacy Policy, constitute the entire agreement between you and the Unbound Team regarding the Service.
+
+### Severability
+If any provision of these Terms is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary, and the remaining provisions shall remain in full force and effect.
+
+### No Waiver
+Our failure to enforce any right or provision of these Terms shall not be deemed a waiver of such right or provision.
+
+### Assignment
+You may not assign or transfer these Terms or your account to any third party without our prior written consent. We may assign or transfer these Terms at any time without restriction.
+
+### Force Majeure
+We shall not be liable for any failure to perform our obligations under these Terms due to circumstances beyond our reasonable control, including but not limited to natural disasters, acts of war, government actions, or internet service failures.
+
+## 15. Contact Information
+
+If you have questions about these Terms of Service, please contact us:
+
+- **Email:** hshunbound.team@gmail.com
+
+---
+
+## Acknowledgment
+
+By using the Unbound Services, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service and our Privacy Policy.
+
+**Thank you for being part of our community!**
+
+**Disclaimer:** This service is not affiliated with, endorsed by, or connected to the original developers or publishers of Home Sweet Home: Online. All trademarks are the property of their respective owners.
