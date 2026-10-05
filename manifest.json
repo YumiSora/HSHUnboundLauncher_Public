@@ -1,0 +1,849 @@
+{
+  "schemaVersion": 1,
+  "revision": 1,
+  "gameVersion": "0.0.0.1",
+  "issuedAt": "2026-10-05T05:08:27.8522779+00:00",
+  "expiresAt": "2026-11-05T05:08:27.8522779+00:00",
+  "files": [
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/chrome_elf.dll",
+      "kind": "original",
+      "sha256": "8A06B6F35FDE228A7AA55CE6D6A4CC84A0C3443468D618850A868CE4E56909BB",
+      "size": 547840,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/d3dcompiler_43.dll",
+      "kind": "original",
+      "sha256": "2F23182EC6F4889397AC4BF03D62536136C5BDBA825C7D2C4EF08C827F3A8A1C",
+      "size": 2106216,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/d3dcompiler_47.dll",
+      "kind": "original",
+      "sha256": "D82F77D802FF05D4DA0C82335A05613604DA243513FAA7FB145AAAD0119BDDB5",
+      "size": 4488904,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/libcef.dll",
+      "kind": "original",
+      "sha256": "801F122C61770D97AF98F560E16B6279E3B65BA4EEC0D9E1786F691B1BDDF7A2",
+      "size": 98275328,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/libEGL.dll",
+      "kind": "original",
+      "sha256": "63580999B8210315B664E7742B6D4F59E587D20B4D0826072A5EF311C6F25B74",
+      "size": 92672,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/libGLESv2.dll",
+      "kind": "original",
+      "sha256": "99F261FA5A69DD2B3BD6192AAF72A0D9F88D769A311FAC87963658A7573EC669",
+      "size": 3922432,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/cef_100_percent.pak",
+      "kind": "original",
+      "sha256": "5DB46CEBB4085976D52D9D27280FAD10B64BDF50B768D3A61B23FC1CDA01ED14",
+      "size": 279905,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/cef_200_percent.pak",
+      "kind": "original",
+      "sha256": "5DE8AF5FEC935FFD1227B4D2C2BE1AFABA3AEAA334E842AB3F86A63BCF999E26",
+      "size": 386884,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/cef_extensions.pak",
+      "kind": "original",
+      "sha256": "0268ED1497F3951662EFFFB7F14A388C65FD14A1B4E477E8380A31DD9CC6872F",
+      "size": 3565138,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/cef.pak",
+      "kind": "original",
+      "sha256": "C26FF7260312B10CF2659E048A0C7D8989F8E63A1069802265E47D2F67E65D85",
+      "size": 6003861,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/devtools_resources.pak",
+      "kind": "original",
+      "sha256": "86CA2607EE8256A55A7AA0B30B7FF3A3BEF5C1C095D2E4310E7EFDA257BFD1C1",
+      "size": 5183550,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/am.pak",
+      "kind": "original",
+      "sha256": "644D8494114542E0CC62F09C325B1504BFA8E63FBFA7E32F8D9E70375D21E5B6",
+      "size": 317735,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ar.pak",
+      "kind": "original",
+      "sha256": "78A728F45C5F0E245153656C277F452D7FA9670BF7D947F41D2A5B4434D21B91",
+      "size": 314031,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/bg.pak",
+      "kind": "original",
+      "sha256": "966F12B6BDFBCCEC17B3AAF41CD267B3B50ADC08EBB9D4052BC056CF4A9A3C92",
+      "size": 366595,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/bn.pak",
+      "kind": "original",
+      "sha256": "BAAB6045AB40C9D0B9F684A70296D759033501981BC9DCD7D6F320E7ECEFA4C0",
+      "size": 478939,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ca.pak",
+      "kind": "original",
+      "sha256": "FCF071199DFF9EADF87088C8604A4E7FEEB746B52F7A2250A4B4708C7C3253E1",
+      "size": 228122,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/cs.pak",
+      "kind": "original",
+      "sha256": "F6CBB6464F7A89C133D66C919C48227A6FA10285B3CCB5D87581F168584F6574",
+      "size": 231572,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/da.pak",
+      "kind": "original",
+      "sha256": "4834233E031169260ACB8864A4FD6A35BD9F295F74BA39C88E56B8850D145C20",
+      "size": 207739,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/de.pak",
+      "kind": "original",
+      "sha256": "B2B3F9A080951E1B42447F6FAB93BA70F3F18DFB2618B3BB7A9BCD03AC21F1D5",
+      "size": 226211,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/el.pak",
+      "kind": "original",
+      "sha256": "73245DB3AFA2D270533773E35F15CDA1D4D09A8FE6F2F8A05BD9B117C760B8D5",
+      "size": 402687,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/en-GB.pak",
+      "kind": "original",
+      "sha256": "3CB1AE145DE1892CE5C1DC4ECC00A247F32DE71D04C3720DE49C800C48BE6073",
+      "size": 186958,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/en-US.pak",
+      "kind": "original",
+      "sha256": "DE2958F810539E85E770F4DEC86FF880DC0223CD36071D5B1AB4EEA2052B6FA0",
+      "size": 186991,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/es-419.pak",
+      "kind": "original",
+      "sha256": "0E97EE85938625A9A317CD35B66501B02CE56BBA0E36AB79D59E76BAD6635AA9",
+      "size": 224532,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/es.pak",
+      "kind": "original",
+      "sha256": "4515A47223A992A72D4CF5CB6F1B290EECC499E96B00E01C71942E20BA8E12D4",
+      "size": 228808,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/et.pak",
+      "kind": "original",
+      "sha256": "9B3839F55F186318E257A07149A07CAA2A2171B8A740CD251C245323C8A7524F",
+      "size": 202214,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/fa.pak",
+      "kind": "original",
+      "sha256": "A0E38AFC45902BAE2E2EAD3E51972495558FD75E420AD8A05752C76C5C3DF5A3",
+      "size": 321134,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/fi.pak",
+      "kind": "original",
+      "sha256": "A31CE159B03A3EA1DC144D14E31B5525BDDC28E9BCE366713C7E90580EF3DF8C",
+      "size": 211980,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/fil.pak",
+      "kind": "original",
+      "sha256": "4128934B8DC6FBC90D7D68BD926BD63006ED9869F77EC9A7B78434903FADD18E",
+      "size": 232070,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/fr.pak",
+      "kind": "original",
+      "sha256": "7D2F5A575E6090CC15D28CA2C20723310528278F89BACB31C0CB5D918FEC929E",
+      "size": 243625,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/gu.pak",
+      "kind": "original",
+      "sha256": "B62FE556A941B1CA2CC89BC36508694FB61CF145A2E2BCC505EF1AABB9A60993",
+      "size": 451818,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/he.pak",
+      "kind": "original",
+      "sha256": "600FC783659A765EFB3086A992F1F5C7E780687BD4CAB67FCA41C8115582E57D",
+      "size": 265463,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/hi.pak",
+      "kind": "original",
+      "sha256": "8E5021C07399AE0F28A4B3816F6606FE161347E65D1A7D01F5ED57BA4377A535",
+      "size": 460810,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/hr.pak",
+      "kind": "original",
+      "sha256": "BA334953F117ADE947420C5F58FD21623A1979B4A7821267BDEFF7E1D0CA8C26",
+      "size": 217428,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/hu.pak",
+      "kind": "original",
+      "sha256": "C449703B65F0796B298CB2F932166CBC0ACECB2A061E2D3C823724825877F4AA",
+      "size": 239083,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/id.pak",
+      "kind": "original",
+      "sha256": "788C6504013495DF3ADE34F2A8FB81C1FEA1BB49351879D56F587680F807A78E",
+      "size": 201977,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/it.pak",
+      "kind": "original",
+      "sha256": "39C6B3F68F5BD3DABFFC7B907E9CC026EE037D5CB9DC36FB1F3DEC38F299AF29",
+      "size": 220397,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ja.pak",
+      "kind": "original",
+      "sha256": "F9FA579100CBE58DF0F06F39BF7C4719AEA9AF8D6B5E01BF7B91A9793B653154",
+      "size": 270807,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/kn.pak",
+      "kind": "original",
+      "sha256": "8339140AFDEC8F08ABA5CF4C87474BD4E4E420293C6332833B9821DC713DE290",
+      "size": 519415,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ko.pak",
+      "kind": "original",
+      "sha256": "4EB2136286E136DD0C0490E8163607FA8F5DC3EB804802CA5CA05302D5691745",
+      "size": 230850,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/lt.pak",
+      "kind": "original",
+      "sha256": "80FD3E71172CFD78D360EAA9B7A157BEAA5C128AC64A1FB784CEC49701B88207",
+      "size": 234416,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/lv.pak",
+      "kind": "original",
+      "sha256": "73C17BC97D8173949AAB0A9748D86B934C14E0418EE8EC314102A5FED40EC5D2",
+      "size": 234204,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ml.pak",
+      "kind": "original",
+      "sha256": "DB9928F514679E50A41E19BBBC582042EC8CA9FB6CD8088ABE594AF56B83BB18",
+      "size": 567612,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/mr.pak",
+      "kind": "original",
+      "sha256": "05D3620C0FCB083647FAE506A4E084ADD864434C5E9D35B23671E6AECF733DE1",
+      "size": 456368,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ms.pak",
+      "kind": "original",
+      "sha256": "29800443A6AFC617029C61C5F825814ECC08EE2AE50F4D06CD3D233A1CF78154",
+      "size": 208619,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/nb.pak",
+      "kind": "original",
+      "sha256": "ECE4D7FFE733EE39D1D12F4999FDCD4CC33C96FBF93F86D64C0A93253737F9FC",
+      "size": 205047,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/nl.pak",
+      "kind": "original",
+      "sha256": "D1803E3C6D64050FC5A16C5168A99E3165B1137A2A676AF2709C3AE13083CAC5",
+      "size": 215699,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/pl.pak",
+      "kind": "original",
+      "sha256": "FFCAD2748416D25B0E23114E620BFEC21BE3C8C0DBD7FCE3495535CB42E30DA8",
+      "size": 225555,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/pt-BR.pak",
+      "kind": "original",
+      "sha256": "649DE1C7B2B78D4A647EE3426E36AB93A379C5E7060933419D5F28493236EFA3",
+      "size": 221133,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/pt-PT.pak",
+      "kind": "original",
+      "sha256": "335DF6EF67E6F7346426F7F108498CDF0C49B748CEEAB4EB4F4A53EED3882AE9",
+      "size": 223472,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ro.pak",
+      "kind": "original",
+      "sha256": "2807DA4230C77DF6188CE6607486D499290ECF8DACA118B3925FC2A3DD52F902",
+      "size": 229091,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ru.pak",
+      "kind": "original",
+      "sha256": "2667857778DF720E0768C05C55EB46485F5477169DC716E3B1B5BDBF8FEA2C86",
+      "size": 351003,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/sk.pak",
+      "kind": "original",
+      "sha256": "FEA92269172E1E38BA3D1E3400D1DE989364BAB5D49334AED5352E24B8CB640B",
+      "size": 237218,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/sl.pak",
+      "kind": "original",
+      "sha256": "2FC6A7BBAC450CB583BEF9B12D21CA43A31205865FAF2352982A29ADEB44FC4E",
+      "size": 217919,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/sr.pak",
+      "kind": "original",
+      "sha256": "9A0E5008633EBE6270BD3101F09A764DFF12B4F4118C763F9998C3F432B6B829",
+      "size": 341731,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/sv.pak",
+      "kind": "original",
+      "sha256": "935D6D3968FA20C7E6E10865E8ECEE15A2BB8363A28E4470FBEA8E16942B085E",
+      "size": 206145,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/sw.pak",
+      "kind": "original",
+      "sha256": "FE2502A37371EA88ACC8D6E75C16E764CC1212F9ED4142079A0D5DBE8E7F2669",
+      "size": 209319,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ta.pak",
+      "kind": "original",
+      "sha256": "70049A6DD560D54B94705E084D638C231F324AAD726122D013396F9E976F8F0C",
+      "size": 527387,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/te.pak",
+      "kind": "original",
+      "sha256": "B959A78FB5CFC0239EB94F15530402CE9AEE0CA61AB7E0D763EDB3EAD0423FD1",
+      "size": 503299,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/th.pak",
+      "kind": "original",
+      "sha256": "25E4775EFABCC22B87E02C393CEBD85EF39FE24790A9C83B96DCDDAB80501BA6",
+      "size": 438108,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/tr.pak",
+      "kind": "original",
+      "sha256": "0FE9C7B8849C9E386C34215E7544AFBAAC04360896E6DD79D206511AB6A78E37",
+      "size": 221774,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/uk.pak",
+      "kind": "original",
+      "sha256": "D31FA0678019FFE21D693AB809800A127D9585C9D21EBA55094299396C61D448",
+      "size": 358245,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/vi.pak",
+      "kind": "original",
+      "sha256": "6C42B4810B9FF2BC6DEECE746385D0AB8BBA1C4AC213BE8BF6007DBE990B8059",
+      "size": 254300,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/zh-CN.pak",
+      "kind": "original",
+      "sha256": "24938E63E4D487C96BC74D17A76629C837DB11DC3ADBF4CBA58C90CDD6AE5645",
+      "size": 190714,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/zh-TW.pak",
+      "kind": "original",
+      "sha256": "7BEDCE5280DD86B5ED52B950A0B39B5349E7E8B3123E23027230469341327E0E",
+      "size": 192079,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll",
+      "kind": "original",
+      "sha256": "9A02133854FF9F06C3B23A70F8C2A4814B2ED4EEF613244B485E3737259DDF9E",
+      "size": 1868736,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/NVIDIA/GeForceNOW/Win64/GfnRuntimeSdk.dll",
+      "kind": "original",
+      "sha256": "E741479B13FAAB35B34A60BD9E8B09791EA57D260A9336B44916E73BA2246D30",
+      "size": 3212640,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll",
+      "kind": "original",
+      "sha256": "516E14AF41A91FE960363728965F354AECC06BCDFAEF6BCB45DD3537EDE09195",
+      "size": 1425920,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll",
+      "kind": "original",
+      "sha256": "D42D9A1B40AE9E4A86A1DC00536CC7139DAEA5ADDBDDD32CA386C5B24B000CB6",
+      "size": 4140240,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll",
+      "kind": "original",
+      "sha256": "284A6E70A6DCE01F8A02D93E1BB78BAF0EFB6140459C587D8986D59FB6BD675B",
+      "size": 49152,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/OpenXR/win64/openxr_loader.dll",
+      "kind": "original",
+      "sha256": "2AE94572256DFD6D7E992A4474797D8CFE14CF3C030B2040A5B91A7D7BDFD8D8",
+      "size": 622592,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_Clothing_x64.dll",
+      "kind": "original",
+      "sha256": "12E2803BCA4A46990B6A00D2CB0869931181D82942E3A7853AFB4FF795DEF072",
+      "size": 1219072,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_Destructible_x64.dll",
+      "kind": "original",
+      "sha256": "82B315E6D6AF95914C406285D197319D9243FB664E6F45DCB21A9F2F5E43192B",
+      "size": 2009600,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_Legacy_x64.dll",
+      "kind": "original",
+      "sha256": "58AC9873AD9F1A4B6C7E607A86980FE00D992EC08138C16A5021B4890EF25B1C",
+      "size": 3329536,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/ApexFramework_x64.dll",
+      "kind": "original",
+      "sha256": "CCE437454486FD7FDEB7B24AE2AFC3E3B5123A1B739C7DE0061B313BFFF88E3B",
+      "size": 1043968,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/NvCloth_x64.dll",
+      "kind": "original",
+      "sha256": "46BC7AD33191C1FC72192002E6A432C1B9399D42C8849BCBD6A9487A777FC254",
+      "size": 265728,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3_x64.dll",
+      "kind": "original",
+      "sha256": "09C50DDCCF9B31DCF97E57505F0B4616C8A963B6D4502CE10D836F0C460A1B00",
+      "size": 2105344,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Common_x64.dll",
+      "kind": "original",
+      "sha256": "1ED491817611F251CDEA84D438CCD9D9AB8CB7CF42A1ECD7476834B7BBE53BE4",
+      "size": 1598976,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Cooking_x64.dll",
+      "kind": "original",
+      "sha256": "BFF31EF9EADED496FECDB1E2F89F3108B9529D6E221E56D53C7321CF2575BCD4",
+      "size": 244736,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundation_x64.dll",
+      "kind": "original",
+      "sha256": "7690C1572C74CF8029258FA1FEEB00BA938D6A6C4B5FEA34B9FB421224672DBE",
+      "size": 54784,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDK_x64.dll",
+      "kind": "original",
+      "sha256": "39A7088BB1CB810FC2D6E461D3517339B34769D61AE5447DF9EC3A629E048CF5",
+      "size": 188928,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/Steamworks/Steamv151/Win64/steam_api64.dll",
+      "kind": "original",
+      "sha256": "CA1FA9A7609AB10B7926400559CF073E5888423CC156AF72C6027D72A89EEA73",
+      "size": 265504,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll",
+      "kind": "original",
+      "sha256": "0F66DCB5837E9B59C499277FD272B862043356AA9145802CF0A63E00A1BCCA59",
+      "size": 1714176,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll",
+      "kind": "original",
+      "sha256": "A9D6F5538F44011C1F65D7ACE64216A237636717CB0C8C59F4F89CC08DD3D24F",
+      "size": 37888,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll",
+      "kind": "original",
+      "sha256": "0E01F400BAA09694CACFD2CFBFF0D721C17B56785D2D6E29B6FDD117F70CCC1E",
+      "size": 847440,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Binaries/Win64/UnrealCEFSubProcess.exe",
+      "kind": "original",
+      "sha256": "0499C4073B070710DA3CF39ECB7ABAE803A8DFBE74FB2A5D7B81BBD146C46F49",
+      "size": 3693568,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe",
+      "kind": "original",
+      "sha256": "145F4E4D11E76A2612DB5FFBFAE8F9AB8E4385FF7660802FFD2F473C9DCB2A0D",
+      "size": 41033784,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "HSHO.exe",
+      "kind": "original",
+      "sha256": "83D26709AB0DCFECE1FDEDC8C843BFF749E71E8C63073178EB4BD7743CC73CB1",
+      "size": 221696,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "HSHO/Binaries/Win64/embree.2.14.0.dll",
+      "kind": "original",
+      "sha256": "4BB99AD5643F1315682C78EE0250FC3CC5C1DCDF1938C3CCF480D67DCD7E6449",
+      "size": 20321280,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "HSHO/Binaries/Win64/HSHO-Win64-Shipping.exe",
+      "kind": "original",
+      "sha256": "4576F875828CBD19F70C38A38C6D090CC0551C9978F67456C39D58F8A48E964E",
+      "size": 90449920,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "HSHO/Binaries/Win64/OpenImageDenoise.dll",
+      "kind": "original",
+      "sha256": "11213C268E6C67262D48E7351E1F6C196ACBB91A9A1CF059D4D758C34368F08A",
+      "size": 49771408,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "HSHO/Binaries/Win64/steam_api64.dll",
+      "kind": "original",
+      "sha256": "728D0D3A8DF8E5BEA3A5FE5BDBE826F2A3F9FB6A397BC8A3AC716C3E2CE9C944",
+      "size": 290768,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "HSHO/Binaries/Win64/steamclient64.dll",
+      "kind": "original",
+      "sha256": "29F9AE5C2D6B07AAE121DD16E1FC426C5FA897B417E2C20B692C4AC2824E42F2",
+      "size": 13013568,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "HSHO/Binaries/Win64/tbb.dll",
+      "kind": "original",
+      "sha256": "6FBB72516C91FD1085E0E9DF6988C53B3E75CFF5E42214920493356D8BA8745F",
+      "size": 383488,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "HSHO/Binaries/Win64/tbb12.dll",
+      "kind": "original",
+      "sha256": "061F3B283B3E5B24C5AC45772EE19E2F4B24CDACB3FF8AE4F815FE62836E5A45",
+      "size": 383856,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "HSHO/Binaries/Win64/tbbmalloc.dll",
+      "kind": "original",
+      "sha256": "9922D112E764F438FFAE851B462282E02E3745994FEA955DD2A73A61DCDE1D21",
+      "size": 51200,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "HSHO/Binaries/Win64/tier0_s64.dll",
+      "kind": "original",
+      "sha256": "45A88DB5D18E9726A96E4E749BF0016A5611A7829CC9575409EFC979E928ACDE",
+      "size": 336672,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "HSHO/Binaries/Win64/vstdlib_s64.dll",
+      "kind": "original",
+      "sha256": "7B5B908812EC26AA2E33547A1B31B6F48A4780C3C21733E329B06153E3DBE8DD",
+      "size": 349984,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "HSHO/Content/Paks/HSHO-WindowsNoEditor.pak",
+      "kind": "original",
+      "sha256": "B6655B433207E5C18B322C7BC5D047C0CAEF6FB6431FF31868C9A7D503FC84E5",
+      "size": 30641767779,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "HSHO/Content/Paks/HSHO-WindowsNoEditor.sig",
+      "kind": "original",
+      "sha256": "33287C469CBA61388D4D520F95FE87EDBA0F9D729EE0FE709026D5AE4BCCE7DB",
+      "size": 1870756,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "HSHO/Plugins/GameLiftBlueprintPlugin/Source/ThirdParty/AWSCoreLibrary/Win64/aws-c-common.dll",
+      "kind": "original",
+      "sha256": "609A6F56189D00DB63A0B0C967A0F1CA39015DBAA7889565EFB2C2F66974EEEC",
+      "size": 84480,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "HSHO/Plugins/GameLiftBlueprintPlugin/Source/ThirdParty/AWSCoreLibrary/Win64/aws-c-event-stream.dll",
+      "kind": "original",
+      "sha256": "6D246CB71ED7AEF2E64D835F34A74E4D50489E0EEB10748FC133E52155D7BE6D",
+      "size": 25088,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "HSHO/Plugins/GameLiftBlueprintPlugin/Source/ThirdParty/AWSCoreLibrary/Win64/aws-checksums.dll",
+      "kind": "original",
+      "sha256": "167F9B47431D4B7AE45E33408935A8BF5756C9C4D0E732D3F3E6620BE544B64A",
+      "size": 45056,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "HSHO/Plugins/GameLiftBlueprintPlugin/Source/ThirdParty/AWSCoreLibrary/Win64/aws-cpp-sdk-core.dll",
+      "kind": "original",
+      "sha256": "B5F6176D876D288092F6280DD8D7455216C26721E3A90D9437C8A928C5D2FBD4",
+      "size": 1068544,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "HSHO/Plugins/GameLiftBlueprintPlugin/Source/ThirdParty/GameLiftClientLibrary/Win64/aws-cpp-sdk-gamelift.dll",
+      "kind": "original",
+      "sha256": "B22BEE65C0DAFDD2B48E1A81891F8AB19CF3E46DCCC24640BA5892A00B93F01E",
+      "size": 2242560,
+      "modId": null,
+      "version": null
+    },
+    {
+      "path": "HSHO/Plugins/SteamCorePro/Source/ThirdParty/SteamLibrary/redistributable_bin/win64/steam_api64.dll",
+      "kind": "original",
+      "sha256": "1DB3FD414039D3E5815A5721925DD2E0A3A9F2549603C6CAB7C49B84966A1AF3",
+      "size": 298384,
+      "modId": null,
+      "version": null
+    }
+  ]
+}
