@@ -1,6 +1,6 @@
 Privacy Policy for Unbound Services
 
-**Last Updated: October 6, 2026**
+**Last Updated: October 9, 2026**
 
 ## Introduction
 
@@ -22,13 +22,12 @@ By using our Service, you agree to the collection and use of information in acco
 ### Technical and Security Information
 
 The Home Sweet Home: Online game client automatically transmits certain technical information to our server, including:
-- IP addresses (used for connection, security, and anti-cheat purposes)
 - Mac addresses (sent by the game client for security and anti-cheat purposes)
 - Game client version
 - Connection logs and error reports
 - Server performance data
 
-**Important Note:** IP addresses and Mac addresses are collected because the game client sends this information to the server as part of its normal operation. We use this data solely for security, authentication, and preventing abuse of our Service.
+**Important Note:** Mac addresses are collected because the game client sends this information to the server as part of its normal operation. We use this data solely for security, authentication, and preventing abuse of our Service.
 
 ## How We Use Your Information
 
@@ -43,11 +42,11 @@ We use collected information to:
 
 ## Data Storage and Security
 
-- **Primary Database:** Essential gameplay data (statistics, progress, character data) is stored in MongoDB servers located in Singapore and South Korea regions
-- **Security Data:** IP addresses and Mac addresses are stored separately from gameplay data and are retained for a maximum of 90 days for security and anti-cheat purposes only
+- **Primary Database:** Essential gameplay data (statistics, progress, character data) is stored in MongoDB servers located in Singapore regions.
+- **Security Data:** Mac addresses are stored separately from gameplay data and are retained for a maximum of 90 days for security and anti-cheat purposes only
 - **Data Encryption:** We implement industry-standard security measures to protect your information
 - **Access Control:** Access to personal data is restricted to authorized team members only
-- **Automatic Deletion:** Security data (IPs and Mac addresses) is automatically purged after 90 days unless required for ongoing investigations
+- **Automatic Deletion:** Security data (Mac addresses) is automatically purged after 90 days unless required for ongoing investigations
 
 ## Data Sharing
 
@@ -62,7 +61,7 @@ We may share information only in the following limited circumstances:
 ## Your Rights
 
 You have the right to:
-- **Access:** Request a copy of the personal data we hold about you (including Steam IDs, Discord IDs, gameplay data, collected IP addresses, and Mac addresses)
+- **Access:** Request a copy of the personal data we hold about you (including Steam IDs, Discord IDs, gameplay data, collected Mac addresses)
 - **Deletion:** Request deletion of your account and associated data
 - **Correction:** Request correction of inaccurate data
 - **Restriction:** Request restriction of certain data processing (note: some features may require specific data to function properly; restricting essential data may limit your ability to use the Service)
@@ -75,7 +74,7 @@ To exercise these rights, contact us at **hshunbound.team@gmail.com**
 
 - **Account Information (Steam ID, Steam Username, and Discord ID):** Retained as long as your account is active or as needed to provide the Service, subject to the account deletion provisions below
 - **Gameplay Data:** Retained as long as your account is active or as needed to provide the Service
-- **Security Data (IPs/Mac Addresses):** Automatically deleted after 90 days, except where retention is necessary for ongoing investigations or to comply with legal obligations
+- **Security Data (Mac Addresses):** Automatically deleted after 90 days, except where retention is necessary for ongoing investigations or to comply with legal obligations
 - **Account Deletion:** You may request account deletion at any time. Upon request, we will delete or anonymize your data within 7-10 business days, except where we must retain certain information to comply with legal obligations or complete ongoing investigations
 
 ## Age Requirements

@@ -1,6 +1,6 @@
 Terms of Service for Unbound Services
 
-**Last Updated: October 6, 2026**
+**Last Updated: October 9, 2026**
 
 ## 1. Acceptance of Terms
 
@@ -90,7 +90,7 @@ Any custom modifications, features, or content created by the Unbound Team remai
 ## 6. Anti-Cheat and Security Measures
 
 ### Data Collection for Security
-As described in our Privacy Policy, we collect Steam IDs and Discord IDs as account information. The game client automatically transmits IP addresses and Mac addresses to our server for security and anti-cheat purposes. By using the Service, you consent to this data collection.
+As described in our Privacy Policy, we collect Steam IDs and Discord IDs as account information. The game client automatically transmits Mac addresses to our server for security and anti-cheat purposes. By using the Service, you consent to this data collection.
 
 ### Anti-Cheat Systems
 We employ various anti-cheat measures to ensure fair gameplay. Attempting to circumvent, disable, or interfere with these systems is strictly prohibited and will result in immediate permanent ban.
@@ -107,7 +107,7 @@ We reserve the right to:
 ### Ban Types
 - **Temporary Ban:** Account suspension for a specified period
 - **Permanent Ban:** Permanent removal from the Service with no appeal
-- **Hardware Ban:** Ban applied to your hardware identifiers (IP/Mac address) to prevent ban evasion
+- **Hardware Ban:** Ban applied to your hardware identifiers (Mac address) to prevent ban evasion
 
 ### Ban Evasion
 Attempting to circumvent a ban through:
